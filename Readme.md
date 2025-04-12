@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there! 👋<br>I'm Jaya Dhakar, an aspiring Software Developer passionate about building clean and scalable web applications,<br>Currently working on real-time full-stack applications using Angular & NestJS<br>Looking to collaborate on Full-stack projects, especially those using Angular, NestJS, or Node.js.<br>Currently learning: Advanced Angular concepts (Signals, State Management, Routing), backend development with NestJS, and best practices for designing full-stack architecture.<br><br>Always excited to learn, build, and contribute. Let’s connect and create something impactful! 
 
 
